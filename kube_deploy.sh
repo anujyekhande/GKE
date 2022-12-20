@@ -11,3 +11,4 @@ kubectl rollout status deployment options
 
 #rolling back
 kubectl rollout undo deployment options
+hi
