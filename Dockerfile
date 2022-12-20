@@ -10,4 +10,4 @@ ADD . $SRC_DIR
 RUN cd $SRC_DIR; go build -o myapp; cp myapp /app/
 
 ENTRYPOINT ["./myapp"]
-hii
+hello
